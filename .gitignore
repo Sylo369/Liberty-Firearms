@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Excluding for security reasons related with the API
+appsettings.json
+
 # User-specific files
 *.rsuser
 *.suo
